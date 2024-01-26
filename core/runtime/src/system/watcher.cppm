@@ -4,9 +4,7 @@ module;
 
 export module watcher;
 
-import <filesystem>;
-import <iostream>;
-import <vector>;
+import std;
 
 
 export namespace core {

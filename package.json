@@ -2,7 +2,8 @@
   "name": "comf",
   "workspaces": [
     "core/*",
-    "libraries/*"
+    "libraries/*",
+    "externals"
   ],
   "packageManager": "yarn@4.0.2"
 }

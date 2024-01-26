@@ -10,3 +10,9 @@ __metadata:
   resolution: "comf@workspace:."
   languageName: unknown
   linkType: soft
+
+"runtime@workspace:core/runtime":
+  version: 0.0.0-use.local
+  resolution: "runtime@workspace:core/runtime"
+  languageName: unknown
+  linkType: soft

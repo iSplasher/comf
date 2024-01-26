@@ -4,9 +4,7 @@ module;
 
 export module cli;
 
-import <iostream>;
-import <string>;
-
+import std;
 export namespace core {
 
     class CLI {

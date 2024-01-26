@@ -1,8 +1,6 @@
 export module system;
 
-import <iostream>;
-import <thread>;
-import <chrono>;
+import std;
 
 export namespace core {
 

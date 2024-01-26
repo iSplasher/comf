@@ -1,4 +1,4 @@
-import <iostream>;
+import std;
 
 import service;
 import system;
